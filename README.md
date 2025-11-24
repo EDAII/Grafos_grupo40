@@ -40,6 +40,10 @@ Foram desenvolvidas três questões do LeetCode focadas em algoritmos de busca.
 
 ![847. Shortest Path Visiting All Nodes](https://raw.githubusercontent.com/EDAII/Grafos_grupo40/main/img/847.png)
 
+### ✅ Accepted 124. Binary Tree Maximum Path Sum
+
+![124. Binary Tree Maximum Path Sum](img/124.png)
+
 ---
 
 ## 🎥 Vídeo de Apresentação
