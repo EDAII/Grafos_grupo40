@@ -30,15 +30,15 @@ Foram desenvolvidas três questões do LeetCode focadas em algoritmos de busca.
 
 ### ✅ Accepted 126. Word Ladder II
 
-![126. Word Ladder II](img/502.png)
+![126. Word Ladder II](img/126.png)
 
 ### ✅ Accepted 1192. Critical Connections in a Network
 
-![1192. Critical Connections in a Network](img/297.png)
+![1192. Critical Connections in a Network](img/1192.png)
 
 ### ✅ Accepted 847. Shortest Path Visiting All Nodes
 
-![847. Shortest Path Visiting All Nodes](img/124.png)
+![847. Shortest Path Visiting All Nodes](img/847.png)
 
 ---
 
