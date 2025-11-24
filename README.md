@@ -1,4 +1,4 @@
-# Traalho 4 Grafos 
+# Trabalho 4 Grafos 
 
 **Conteúdo da Disciplina:** Estrutura de Dados 2
 
@@ -30,15 +30,15 @@ Foram desenvolvidas três questões do LeetCode focadas em algoritmos de busca.
 
 ### ✅ Accepted 126. Word Ladder II
 
-![126. Word Ladder II](img/126.png)
+![126. Word Ladder II](https://raw.githubusercontent.com/EDAII/Grafos_grupo40/main/img/126.png)
 
 ### ✅ Accepted 1192. Critical Connections in a Network
 
-![1192. Critical Connections in a Network](img/1192.png)
+![1192. Critical Connections in a Network](https://raw.githubusercontent.com/EDAII/Grafos_grupo40/main/img/1192.png)
 
 ### ✅ Accepted 847. Shortest Path Visiting All Nodes
 
-![847. Shortest Path Visiting All Nodes](img/847.png)
+![847. Shortest Path Visiting All Nodes](https://raw.githubusercontent.com/EDAII/Grafos_grupo40/main/img/847.png)
 
 ---
 
