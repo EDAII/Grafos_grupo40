@@ -28,17 +28,17 @@ Foram desenvolvidas três questões do LeetCode focadas em algoritmos de busca.
 
 ## 📸 Screenshots
 
-### ✅ Accepted 502. IPO
+### ✅ Accepted 126. Word Ladder II
 
-![502. IPO](img/502.png)
+![126. Word Ladder II](img/502.png)
 
-### ✅ Accepted 297. Serialize and Deserialize Binary Tree
+### ✅ Accepted 1192. Critical Connections in a Network
 
-![297. Serialize and Deserialize Binary Tree](img/297.png)
+![1192. Critical Connections in a Network](img/297.png)
 
-### ✅ Accepted 124. Binary Tree Maximum Path Sum
+### ✅ Accepted 847. Shortest Path Visiting All Nodes
 
-![124. Binary Tree Maximum Path Sum](img/124.png)
+![847. Shortest Path Visiting All Nodes](img/124.png)
 
 ---
 
