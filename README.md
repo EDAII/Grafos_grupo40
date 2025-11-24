@@ -30,7 +30,7 @@ Foram desenvolvidas três questões do LeetCode focadas em algoritmos de busca.
 
 ### ✅ Accepted 126. Word Ladder II
 
-![126. Word Ladder II](img/126.png)
+![126. Word Ladder II](img/126.jpg)
 
 ### ✅ Accepted 1192. Critical Connections in a Network
 
